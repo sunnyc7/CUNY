@@ -8,3 +8,6 @@ Analogy as a part of cognitiion.
 # Other side of Big Data:
 Because we need a balance.
 - Weapons of Math Destruction: https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815
+
+# AGI
+- Karpathy: https://docs.google.com/presentation/d/119VW6ueBGLQXsw-jGMboGP2-WuOnyMAOYLgd44SL6xM/preview?slide=id.p
